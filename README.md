@@ -1,6 +1,7 @@
 # Headline Generation
 
 Short: A simple sequence-to-sequence LSTM model and transformer that generates short summaries from article text.
+Dataset: https://www.kaggle.com/datasets/pariza/bbc-news-summary
 
 ## Quick project flow
 1. **Preprocess**: lowercase, basic cleanup; add `startseq` / `endseq` to each summary.  
